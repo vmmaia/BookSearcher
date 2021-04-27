@@ -1,0 +1,22 @@
+.bookPage-alignCenter {
+  text-align: center;
+}
+
+.bookPage-image {
+  width: 310px !important;
+}
+
+.bookPage-tags {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.bookPage-tags > span {
+  margin-top: 8px;
+}
+
+.bookPage-title-wrapper {
+  display: flex;
+  justify-content: space-between;
+}

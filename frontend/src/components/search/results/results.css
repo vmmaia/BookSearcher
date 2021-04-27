@@ -1,0 +1,15 @@
+.searchResults-box {
+  padding-top: 25px;
+  transition: all 0.25s linear;
+}
+
+.searchResults-hide {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.searchResults-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

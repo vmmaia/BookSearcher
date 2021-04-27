@@ -1,0 +1,14 @@
+.header-box {
+  display: flex;
+  justify-content: space-between;
+
+  background-color: #75c1ff;
+}
+
+.header-title > a {
+  color: #ffffff;
+}
+
+.header-button {
+  color: #ffffff;
+}
